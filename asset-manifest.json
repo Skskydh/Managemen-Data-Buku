@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Managemen-Data-Buku/static/css/main.78b3abe1.css",
+    "main.js": "/Managemen-Data-Buku/static/js/main.7149b6bd.js",
+    "static/media/gambar-management book.png": "/Managemen-Data-Buku/static/media/gambar-management book.e709539caab06c6b9c93.png",
+    "index.html": "/Managemen-Data-Buku/index.html",
+    "main.78b3abe1.css.map": "/Managemen-Data-Buku/static/css/main.78b3abe1.css.map",
+    "main.7149b6bd.js.map": "/Managemen-Data-Buku/static/js/main.7149b6bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b3abe1.css",
+    "static/js/main.7149b6bd.js"
+  ]
+}
